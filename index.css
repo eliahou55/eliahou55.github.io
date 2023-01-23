@@ -1,0 +1,179 @@
+#contener{
+    border:medium #6680bd inset;
+    width: 400px;
+    height: 600px;
+    position: relative;
+    margin: 0px auto 0px auto;
+
+    background-color: #868181;
+    box-shadow: 20px 20px 20px #526458;
+}
+body{
+    background-color: #333132;
+}
+#entete{
+    height: 100px;
+    width: 400px;
+
+    background-color: #475b6e;
+}
+#photo{
+    height: 90px;
+    width: 70px;
+    background-color: #789596;
+    margin-left: 20px;
+
+    position: absolute;
+}
+#photos{
+    margin: 10px;
+}
+#corp{
+    height: 420px;
+    width:400px ;
+    background-color: #a9a2a2;
+
+
+}
+#gauche{
+    height: 420px;
+    width: 140px;
+
+    float: left;
+
+    background-color: #243832;
+}
+#droite{
+    width: 260px;
+    height: 420px;
+    float: right;
+}
+#info{
+    margin-left: 120px;
+    height: 80px;
+    width: 180px;
+    padding-top: 10px;
+
+
+
+}
+.gen{
+    width: 120px;
+    font-size: 0.7pc;
+    font-family: Ebrima;
+    display: block;
+    margin-top: 0px;
+    color: #F2DFDF;
+    position: relative;
+}
+
+
+.pasgen{
+    width: 45px;
+    font-size: 0.7pc;
+    font-family: Ebrima;
+    display: block;
+    margin-top: 0px;
+    color: #444243;
+    position: relative;
+
+    margin-left: 80px;
+
+}
+#pied{
+    height: 80px;
+    width: 400px;
+    background-color: #77887a;
+
+    border: low black inset;
+    background-color: #627973;
+
+
+}
+
+.text{
+    text-align: center;
+    margin-top: 0px;
+    font-family: Ebrima;
+    color: #5d5da1;
+}
+.logo{
+    margin-left: 75px;
+    right: 70px;
+    left: 70px;
+}
+#tel{
+    width: 75px;
+    height: 15px;
+    margin-left:5px;
+    margin-top: 10px;
+
+
+
+}
+.num{
+    font-style: oblique;
+    font-size: 9.5px;
+    font-family: Ebrima;
+    color: #90a6a9;
+}
+#contact{
+    margin-left: 7px;
+    font-family: Ebrima;
+}
+.cont{
+    font-style:italic;
+    font-family: Ebrima;
+
+}
+#adresse{
+    margin-left: 5px;
+}
+#mail{
+    margin-left: 5px;
+}
+#competence{
+    margin-left: 6px;
+}
+hr{
+    color: #74868a;
+}
+
+#Langue{
+    margin-left: 6px;
+}
+#profil{
+    margin-right: 50px;
+
+}
+.titre{
+    margin-left: 80px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #799a90;
+
+}
+.par{
+    font-style: oblique;
+    font-size: 9.5px;
+    font-family: Ebrima;
+    color: #77867b;
+    margin-left: 5px;
+
+}
+#diplome{
+    margin-right: 50px;
+
+
+}
+.exp{
+    margin-left: 25px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #768f8c;
+
+
+}
+#exp{
+    margin-right: 50px;
+}
